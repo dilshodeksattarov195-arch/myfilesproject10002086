@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfync",
+        "uuid": 20236286,
+        "checksum": "frpbj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
